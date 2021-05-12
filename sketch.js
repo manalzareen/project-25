@@ -29,7 +29,7 @@ dustbin1 .scale=0.45;
    box1= new Box(width/1.2,height-45,140,16);
    box2=new Box(1065,300,16,130);
    box3= new Box(933,300,16,130);
-  paper1=new Paper(100,360,30);
+  paper1=new Paper(100,360,20);
 	Engine.run(engine);
   
 }
